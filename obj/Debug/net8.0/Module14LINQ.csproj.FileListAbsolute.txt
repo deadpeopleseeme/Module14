@@ -1,0 +1,14 @@
+E:\code\Module14LINQ\bin\Debug\net8.0\Module14LINQ.exe
+E:\code\Module14LINQ\bin\Debug\net8.0\Module14LINQ.deps.json
+E:\code\Module14LINQ\bin\Debug\net8.0\Module14LINQ.runtimeconfig.json
+E:\code\Module14LINQ\bin\Debug\net8.0\Module14LINQ.dll
+E:\code\Module14LINQ\bin\Debug\net8.0\Module14LINQ.pdb
+E:\code\Module14LINQ\obj\Debug\net8.0\Module14LINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\Module14LINQ\obj\Debug\net8.0\Module14LINQ.AssemblyInfoInputs.cache
+E:\code\Module14LINQ\obj\Debug\net8.0\Module14LINQ.AssemblyInfo.cs
+E:\code\Module14LINQ\obj\Debug\net8.0\Module14LINQ.csproj.CoreCompileInputs.cache
+E:\code\Module14LINQ\obj\Debug\net8.0\Module14LINQ.dll
+E:\code\Module14LINQ\obj\Debug\net8.0\refint\Module14LINQ.dll
+E:\code\Module14LINQ\obj\Debug\net8.0\Module14LINQ.pdb
+E:\code\Module14LINQ\obj\Debug\net8.0\Module14LINQ.genruntimeconfig.cache
+E:\code\Module14LINQ\obj\Debug\net8.0\ref\Module14LINQ.dll
